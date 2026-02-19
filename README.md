@@ -19,7 +19,7 @@ The Dumpstarr database for Profilarr is a curated collection of **custom formats
 ### **Profile Selection Guide**
 
 > [!TIP]
-> We recommend starting with the Movies 1080p/2160p and TV 1080p/2160p profiles.
+> We recommend starting with the `Movies 1080p/2160p` and `TV 1080p/2160p` profiles.
 
 | Profile | Media Type | Use Case |
 | :--- | :--- | :--- |
