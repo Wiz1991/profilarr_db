@@ -1,7 +1,7 @@
-name: DB
-pattern: \[DB\]
+name: dB
+pattern: (?<=^|[\s.-])dB\b
 description: ''
 tags:
-- Radarr
-- Sonarr
+- Release Group
+- WEB-DL
 tests: []
