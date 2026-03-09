@@ -49,8 +49,6 @@ custom_formats:
   score: 900
 - name: Anime Tier 8
   score: 800
-- name: Anime Dual Audio
-  score: 101
 - name: Multi-Audio
   score: 101
 - name: Multi-Sub
@@ -112,7 +110,9 @@ custom_formats:
 - name: VOSTFR
   score: -10000
 custom_formats_radarr: []
-custom_formats_sonarr: []
+custom_formats_sonarr:
+- name: Anime Dual Audio
+  score: 101
 qualities:
 - id: 10
   name: Bluray-1080p
@@ -156,4 +156,4 @@ upgrade_until:
   id: 10
   name: Bluray-1080p
   description: 1080p Blu-ray video encoded with lossy compression
-language: original
+language: must_japanese
